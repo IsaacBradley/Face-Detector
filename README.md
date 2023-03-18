@@ -6,3 +6,14 @@ This project is done in python and comprises of several components which include
 -  detectFace.py for detecting faces from the trained data.
 - Numpy
 - OpenCv
+
+
+# Project Structure
+Components
+- Python
+
+
+Libraries
+- OpenCV
+- Numpy
+ 
